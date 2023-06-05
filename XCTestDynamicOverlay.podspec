@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XCTestDynamicOverlayLatest'
+  s.name             = 'XCTestDynamicOverlay'
   s.version          = '0.8.5'
   s.summary          = 'Define XCTest assertion helpers directly in your application and library code.'
   s.description      = 'forked to enable this library to be use on cocoapods'
